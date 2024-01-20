@@ -1,0 +1,9 @@
+librosa
+pydub 
+pyloudnorm
+noisereduce
+torch
+fastdtw
+pyaudio
+keras
+tensorflow 
