@@ -6,4 +6,8 @@ torch
 fastdtw
 pyaudio
 keras
-tensorflow 
+tensorflow
+tkinter
+serial
+statistics
+spotipy
