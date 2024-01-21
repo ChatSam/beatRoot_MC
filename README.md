@@ -48,9 +48,9 @@ To match seed songs which have similar 'feel' to the song a user prefers employs
 
 
 
-<p align="center">>
+<p align="center">
     <img src="imgs/mel_spectrogram.png" alt="beatRoot MelSpectrogram" width="600px">
-    <p>sample mel spectrogram of a song extracted using Librosa</p>
+    <p align="center">sample mel spectrogram of a song extracted using Librosa</p>
 </p>
 
 
