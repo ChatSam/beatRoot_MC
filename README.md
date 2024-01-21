@@ -1,9 +1,9 @@
 # beatRoot_MC
 
 
-<div style="text-align: center;">
+<p align="center">
     <img src="imgs/BeatRoot_logo.png" alt="beatRootLogo" width="300px">
-</div>
+</p>
 
 Beatroot is a music player that can create dynamic music playlists based on bio-metric data such as Heart Rate. Given a target activity (i.e excercise, study) and given a reference song a user prefers, the music player will create a playlist that suits the target activity. The heart rate is used to measure the user's 'mood' to see if it matches the target activity. If the perceived mood does not match the target activity, the player will recurate the playlist real time to achieve the desired mood for the target activity.
 
