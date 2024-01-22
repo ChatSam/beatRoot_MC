@@ -55,7 +55,7 @@ To match seed songs which have similar 'feel' to the song a user prefers employs
 
 
 ## Team 
-1. Music player - Austin Copley 
+1. Music player and Heart reate sensor development: [Austin Copley](https://github.com/AustinHCopley) 
 2. Song matching research and development
-    - Chatura Samarasinghe - 
-    - YeJoon Jung -
+    - [Chatura Samarasinghe](https://github.com/ChatSam)
+    - [YeJoon Jung](https://github.com/jkvin114)
